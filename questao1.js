@@ -1,0 +1,1 @@
+gods.forEach(god => console.log(`${god.name} ${god.features.length}`))
